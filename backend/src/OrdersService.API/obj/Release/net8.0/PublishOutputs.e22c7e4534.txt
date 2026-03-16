@@ -1,0 +1,11 @@
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\OrdersService.API.exe
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\appsettings.Development.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\appsettings.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\OrdersService.API.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\OrdersService.API.deps.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\OrdersService.API.runtimeconfig.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\OrdersService.API.pdb
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\Microsoft.OpenApi.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\OrdersService.API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

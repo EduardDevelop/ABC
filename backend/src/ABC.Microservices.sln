@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AA1C4EC7-4009-4973-AA7C-A93C8D3DC2F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{216A60A7-1087-42AA-8549-1806C7EECAC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UsersService", "UsersService", "{5CF4D3B7-E99D-44ED-9FA0-AFF792C170D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrdersService", "OrdersService", "{0896D59F-10A4-4409-9A8B-D4D775825988}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentsService", "PaymentsService", "{FDEB1E3F-58AE-47C4-AF98-F8C1F5CE99FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersService.Api", "UsersService.Api\UsersService.Api.csproj", "{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersService.API", "OrdersService.API\OrdersService.API.csproj", "{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentsService.API", "PaymentsService.API\PaymentsService.API.csproj", "{8A00D447-B775-45A0-AA27-44B2AF7152CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A00D447-B775-45A0-AA27-44B2AF7152CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A00D447-B775-45A0-AA27-44B2AF7152CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A00D447-B775-45A0-AA27-44B2AF7152CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A00D447-B775-45A0-AA27-44B2AF7152CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{216A60A7-1087-42AA-8549-1806C7EECAC2} = {AA1C4EC7-4009-4973-AA7C-A93C8D3DC2F7}
+		{5CF4D3B7-E99D-44ED-9FA0-AFF792C170D0} = {216A60A7-1087-42AA-8549-1806C7EECAC2}
+		{0896D59F-10A4-4409-9A8B-D4D775825988} = {216A60A7-1087-42AA-8549-1806C7EECAC2}
+		{FDEB1E3F-58AE-47C4-AF98-F8C1F5CE99FB} = {216A60A7-1087-42AA-8549-1806C7EECAC2}
+		{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5} = {5CF4D3B7-E99D-44ED-9FA0-AFF792C170D0}
+		{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221} = {0896D59F-10A4-4409-9A8B-D4D775825988}
+		{8A00D447-B775-45A0-AA27-44B2AF7152CB} = {FDEB1E3F-58AE-47C4-AF98-F8C1F5CE99FB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Extensions\\ServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Extensions\\ServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Services\\IUsersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Services\\IUsersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Models\\UsersDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Models\\UsersDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Models\\ApiStatusResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Models\\ApiStatusResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\StatusController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Controllers\\StatusController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\Controllers\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\UsersService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersService.Api\\UsersService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 632,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\appsettings.json",
+              "RelativeToolTip": "UsersService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T03:31:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Program.cs",
+              "RelativeToolTip": "UsersService.Api\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:29:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "UsersService.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:29:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Services\\UserService.cs",
+              "RelativeToolTip": "UsersService.Api\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:28:46.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Services\\IUsersService.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Services\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Services\\IUsersService.cs",
+              "RelativeToolTip": "UsersService.Api\\Services\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:28:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Models\\UsersDto.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Models\\UsersDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Models\\UsersDto.cs",
+              "RelativeToolTip": "UsersService.Api\\Models\\UsersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:28:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Models\\ApiStatusResponse.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Models\\ApiStatusResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Models\\ApiStatusResponse.cs",
+              "RelativeToolTip": "UsersService.Api\\Models\\ApiStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:27:54.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UsersService.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:27:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "UsersService.Api\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:27:04.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "UsersService.Api\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:26:50.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\UsersService.Api.csproj",
+              "RelativeDocumentMoniker": "UsersService.Api\\UsersService.Api.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\UsersService.Api\\UsersService.Api.csproj",
+              "RelativeToolTip": "UsersService.Api\\UsersService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T03:24:07.846Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

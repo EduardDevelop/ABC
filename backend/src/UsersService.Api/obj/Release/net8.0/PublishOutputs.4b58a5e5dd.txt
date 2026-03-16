@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.exe
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\publish\web.config
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\appsettings.Development.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\appsettings.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\publish\appsettings.Development.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\publish\appsettings.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\publish\UsersService.Api.deps.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\publish\UsersService.Api.runtimeconfig.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\publish\UsersService.Api.staticwebassets.endpoints.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.deps.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.runtimeconfig.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.pdb
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,84 @@
+# ==============================================================================
+# ABC MICROSERVICES - Docker Compose
+# ==============================================================================
+#
+# Este archivo construye las imágenes LOCALMENTE desde el código fuente.
+# Cualquier persona puede ejecutar: docker-compose up -d
+#
+# Uso:
+#   docker-compose up -d           # Construir y ejecutar localmente
+#   docker-compose -f docker-compose.yml -f docker-compose.hub.yml up -d  # Usar Docker Hub
+#
+# ==============================================================================
+
+services:
+
+  # Frontend Angular
+  frontend:
+    container_name: abc-frontend
+    build:
+      context: ./ABC_FrontEnd
+      dockerfile: Dockerfile
+    ports:
+      - "4200:80"
+    networks:
+      - microservices-network
+    depends_on:
+      - users-service
+      - orders-service
+      - payments-service
+
+  # Backend Microservices
+  users-service:
+    container_name: users-service
+    build:
+      context: ./backend/src/UsersService.Api
+    ports:
+      - "5001:8080"
+    networks:
+      - microservices-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Database__ConnectionString=mongodb://mongodb:27017/usersdb
+
+  orders-service:
+    container_name: orders-service
+    build:
+      context: ./backend/src/OrdersService.API
+    ports:
+      - "5002:8080"
+    networks:
+      - microservices-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Database__ConnectionString=mongodb://mongodb:27017/ordersdb
+
+  payments-service:
+    container_name: payments-service
+    build:
+      context: ./backend/src/PaymentsService.API
+    ports:
+      - "5003:8080"
+    networks:
+      - microservices-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Database__ConnectionString=mongodb://mongodb:27017/paymentsdb
+
+  # Database
+  mongodb:
+    image: mongo:7
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    networks:
+      - microservices-network
+    volumes:
+      - mongodb_data:/data/db
+
+networks:
+  microservices-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:

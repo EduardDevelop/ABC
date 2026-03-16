@@ -1,0 +1,11 @@
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.exe
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\appsettings.Development.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\appsettings.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.deps.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.runtimeconfig.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\UsersService.Api.pdb
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Microsoft.OpenApi.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\UsersService.Api\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BB23iPLn3Ro+omYTZjaaQs0ROMd7wzOSXUgzFToK53g=",
+  "Source": "OrdersService.API",
+  "BasePath": "_content/OrdersService.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

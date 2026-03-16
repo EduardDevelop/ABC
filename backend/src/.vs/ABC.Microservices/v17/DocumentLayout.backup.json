@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}|UsersService.Api\\UsersService.Api.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\usersservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFABFA3A-026E-4833-BE0B-B0BF4082CCC5}|UsersService.Api\\UsersService.Api.csproj|solutionrelative:usersservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\models\\apistatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\models\\apistatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\paymentsservice.api\\models\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00D447-B775-45A0-AA27-44B2AF7152CB}|PaymentsService.API\\PaymentsService.API.csproj|solutionrelative:paymentsservice.api\\models\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\models\\apistatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\models\\apistatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|c:\\users\\usuario\\source\\repos\\abc.microservices\\backend\\src\\ordersservice.api\\models\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3791F9-C8D8-4BDA-8ACF-14603BAE5221}|OrdersService.API\\OrdersService.API.csproj|solutionrelative:ordersservice.api\\models\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 298,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 718,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Program.cs",
+              "RelativeToolTip": "PaymentsService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:55:45.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\UsersService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "UsersService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\UsersService.Api\\Program.cs",
+              "RelativeToolTip": "UsersService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:53:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Program.cs",
+              "RelativeToolTip": "OrdersService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:34:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PaymentsService.API\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:36:59.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "PaymentsService.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:37:18.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "PaymentsService.API\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:37:35.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "PaymentsService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:37:54.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Services\\PaymentService.cs",
+              "RelativeToolTip": "PaymentsService.API\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:36:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "PaymentsService.API\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:36:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Models\\ApiStatusResponse.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Models\\ApiStatusResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Models\\ApiStatusResponse.cs",
+              "RelativeToolTip": "PaymentsService.API\\Models\\ApiStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:35:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Models\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "PaymentsService.API\\Models\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\PaymentsService.API\\Models\\PaymentDto.cs",
+              "RelativeToolTip": "PaymentsService.API\\Models\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:35:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\appsettings.json",
+              "RelativeToolTip": "OrdersService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T05:34:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "OrdersService.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:33:33.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "OrdersService.API\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:33:13.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "OrdersService.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:32:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersService.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:32:32.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrdersService.API\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:32:12.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Services\\IOrderService.cs",
+              "RelativeToolTip": "OrdersService.API\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:31:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Models\\ApiStatusResponse.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Models\\ApiStatusResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Models\\ApiStatusResponse.cs",
+              "RelativeToolTip": "OrdersService.API\\Models\\ApiStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:31:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Models\\OrdersDto.cs",
+              "RelativeDocumentMoniker": "OrdersService.API\\Models\\OrdersDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ABC.Microservices\\backend\\src\\OrdersService.API\\Models\\OrdersDto.cs",
+              "RelativeToolTip": "OrdersService.API\\Models\\OrdersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:31:01.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

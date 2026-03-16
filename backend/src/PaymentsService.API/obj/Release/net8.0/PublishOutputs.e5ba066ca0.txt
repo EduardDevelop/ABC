@@ -1,0 +1,11 @@
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.exe
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\appsettings.Development.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\appsettings.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.deps.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.runtimeconfig.json
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.pdb
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Microsoft.OpenApi.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

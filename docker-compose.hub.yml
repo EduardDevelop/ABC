@@ -1,0 +1,30 @@
+# ==============================================================================
+# ABC MICROSERVICES - Docker Compose (Docker Hub)
+# ==============================================================================
+#
+# Este archivo usa imágenes pre-built desde Docker Hub.
+# Úsalo cuando hayas subido las imágenes a tu repositorio de Docker Hub.
+#
+# USO:
+#   docker-compose -f docker-compose.yml -f docker-compose.hub.yml up -d
+#
+# IMPORTANTE: Antes de usar, reemplaza 'tu-usuario' por tu usuario de Docker Hub
+# y asegúrate de haber hecho push de las imágenes.
+#
+# ==============================================================================
+
+services:
+
+  # Frontend Angular
+  frontend:
+    image: tu-usuario/abc-frontend:latest
+
+  # Backend Microservices
+  users-service:
+    image: tu-usuario/abc-users-service:latest
+
+  orders-service:
+    image: tu-usuario/abc-orders-service:latest
+
+  payments-service:
+    image: tu-usuario/abc-payments-service:latest

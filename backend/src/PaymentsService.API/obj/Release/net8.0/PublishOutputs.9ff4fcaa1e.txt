@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.exe
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\publish\web.config
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\appsettings.Development.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\appsettings.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\publish\appsettings.Development.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\publish\appsettings.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\publish\PaymentsService.API.deps.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\publish\PaymentsService.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\publish\PaymentsService.API.staticwebassets.endpoints.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.deps.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\PaymentsService.API.pdb
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\ABC.Microservices\backend\src\PaymentsService.API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
